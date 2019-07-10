@@ -29,7 +29,7 @@ In this [link](https://github.com/Microsoft/TypeScript/wiki/TypeScript-Editor-Su
 
 ### 2. Clone this repo and install dependencies
 
-Execute the following command in a terminal to install JavaScript
+Execute the following command in a terminal to clone the repository and install the dependencies needed for the examples:
 
 ```
 git clone https://github.com/elyalvarado/typescript-examples
